@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuarse",
+        "uuid": 5764968,
+        "checksum": "65irfc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
